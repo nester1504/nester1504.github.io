@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nester1504.github.io/budget-tables/sitemap.xml
